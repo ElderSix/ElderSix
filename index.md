@@ -1,9 +1,11 @@
 ---
 layout: page
-title: 老六的休闲会所, 在这里写写自己的东西
-tagline: Supporting tagline
+title: 在这里写写自己的东西
+tagline: 
 ---
 {% include JB/setup %}
+
+![index_banner](/assets/img/index_banner.jpg)
 
 ## 关于我
 
